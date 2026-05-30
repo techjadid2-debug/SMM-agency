@@ -1,0 +1,6 @@
+{
+  "name": "SMM Xizmatlari Agentligi",
+  "description": "SMM xizmatlari agentligining zamonaviy veb-sayti. Biznesingizni ijtimoiy tarmoqlarda rivojlantirish, lidlar yig'ish va ijtimoiy tarmoq tahlili.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
